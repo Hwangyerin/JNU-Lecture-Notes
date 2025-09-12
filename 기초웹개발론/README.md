@@ -35,4 +35,4 @@
 <br>
 
 ### 🔍 참고 자료
-> 아직 추가된 자료가 없습니다. (추후 업데이트 예정)
+[실습 레포지토리](https://github.com/Hwangyerin/Basics-Class-Technology-Web-Development)
